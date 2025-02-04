@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.pdf": "bat",
+        "cstdlib": "c",
+        "server.h": "c",
+        "client.h": "c"
+    }
+}
